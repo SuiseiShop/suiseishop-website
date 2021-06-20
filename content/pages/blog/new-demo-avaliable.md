@@ -36,4 +36,4 @@ image: /images/blog-suisei-demo.png
 ---
 Ya está aquí la primera demostración técnica de nuestra plantilla, la cual ya cuenta con algunas de las características que mostraremos en la versión final.
 
-La demo se puede descargar desde GitHub.
+La demo se puede descargar desde [GitHub](https://github.com/SuiseiShop/demo-game-shop).
