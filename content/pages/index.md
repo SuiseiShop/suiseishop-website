@@ -20,7 +20,7 @@ sections:
     title: Publicaciones recientes
 seo:
   title: SuiseiShop
-  description: Ap
+  description: Aplicaciones multiplataforma para tiendas online
   extra:
     - name: 'og:type'
       value: website
