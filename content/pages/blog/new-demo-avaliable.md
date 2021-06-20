@@ -1,5 +1,5 @@
 ---
-title: Primera demo de nuestra plantilla ya disponible!
+title: ¡Primera demo de nuestra plantilla ya disponible!
 subtitle: lorem-ipsum
 date: '2020-04-22'
 excerpt: >-
