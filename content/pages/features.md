@@ -29,7 +29,7 @@ sections:
         url: /coming-soon
         style: primary
       - label: Probar demo
-        url: '#'
+        url: 'https://github.com/SuiseiShop/demo-game-shop'
         style: secondary
 seo:
   title: Features
