@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Características
 sections:
   - section_id: features
     title: Características
