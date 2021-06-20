@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Aplicaciones multiplataforma para tiendas online
     content: >
-      En SuiseiShop te ofrecemos la posibilidad de contar con una apliación
+      En SuiseiShop te ofrecemos la posibilidad de contar con una aplicación
       multiplataforma para tu comercio online, disfrutando de un rendimiento
       nativo y de la posibilidad de personalizarla a tu gusto.
     actions:
