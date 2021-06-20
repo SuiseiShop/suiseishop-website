@@ -9,8 +9,7 @@ sections:
     content: >
       En SuiseiShop te ofrecemos la posibilidad de contar con una apliación
       multiplataforma para tu comercio online, disfrutando de un rendimiento
-      nativo sin importar el dispositivo y de la posibilidad de personalizarla a
-      tu gusto.
+      nativo y de la posibilidad de personalizarla a tu gusto.
     actions:
       - label: Más información
         url: /features
