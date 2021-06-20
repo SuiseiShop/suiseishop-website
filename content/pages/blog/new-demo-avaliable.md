@@ -1,6 +1,6 @@
 ---
 title: ¡Primera demo de nuestra plantilla ya disponible!
-date: '2021-06-01'
+date: '2021-06-18'
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
