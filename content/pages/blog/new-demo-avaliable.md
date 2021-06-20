@@ -1,5 +1,5 @@
 ---
-title: The Advantages and Disadvantages of Working from Home
+title: Primera demo de nuestra plantilla ya disponible!
 subtitle: lorem-ipsum
 date: '2020-04-22'
 excerpt: >-
