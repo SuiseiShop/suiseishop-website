@@ -1,5 +1,5 @@
 ---
-title: Proximamente
+title: Próximamente
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
