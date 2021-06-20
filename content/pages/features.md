@@ -28,7 +28,7 @@ sections:
       - label: Registrarse
         url: /coming-soon
         style: primary
-      - label: Probar Demo
+      - label: Probar demo
         url: '#'
         style: secondary
 seo:
