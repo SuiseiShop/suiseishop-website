@@ -1,6 +1,6 @@
 ---
 title: Próximamente
-subtitle: Estamos trabajando en ofrecer la mejor experiencia a nuestros clientes.
+subtitle: Estamos trabajando para ofrecer la mejor experiencia a nuestros clientes.
 image_alt: Office desk top view
 seo:
   title: Sign Up
