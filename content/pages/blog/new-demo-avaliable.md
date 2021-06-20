@@ -32,7 +32,7 @@ seo:
 layout: post
 author: content/data/authors/jane-doe.yaml
 thumb_image: images/9_thumb.jpg
-image: /images/2.jpg
+image: /images/blog.png
 ---
 Ya está aquí la primera demostración técnica de nuestra plantilla, la cual ya cuenta con algunas de las características que mostraremos en la versión final.
 
