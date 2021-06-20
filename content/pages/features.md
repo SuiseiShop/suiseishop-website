@@ -7,7 +7,7 @@ sections:
     image: /images/pink-cabbage.png
     image_alt: App preview on a phone and tablet
     title: Haz que tu tienda esté en todas partes
-    content: >+
+    content: >
       Desarrollamos nuestras apliaciones utilizando Flutter, un framework que
       nos permite ofrecer a nuestros clientes las mejores aplicaciones para su
       comercio online.
@@ -22,8 +22,7 @@ sections:
       *   Muchas plantillas entre las que escoger
 
 
-      *   Posibilidad de personalizar la apliación a tu gusto
-
+      *   Posibilidad de personalizar la aplicación a tu gusto
     actions:
       - label: Registrarse
         url: /coming-soon
