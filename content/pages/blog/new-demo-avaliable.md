@@ -1,6 +1,5 @@
 ---
 title: ¡Primera demo de nuestra plantilla ya disponible!
-subtitle: lorem-ipsum
 date: '2020-04-22'
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
