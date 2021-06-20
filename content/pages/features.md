@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - section_id: lorem-ipsum
+  - section_id: features
     title: Características
     subtitle: lorem-ipsum
     background: gray
