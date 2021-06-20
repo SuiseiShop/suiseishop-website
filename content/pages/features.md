@@ -26,7 +26,7 @@ sections:
 
     actions:
       - label: Registrarse
-        url: /signup
+        url: /coming-soon
         style: primary
       - label: View Demo
         url: '#'
