@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: post
 author: content/data/authors/jane-doe.yaml
-thumb_image: /images/beige-eggplant.png
+thumb_image: /images/home.png
 image: /images/blog-suisei-demo.png
 ---
 Ya está aquí la primera demostración técnica de nuestra plantilla, la cual ya cuenta con algunas de las características que mostraremos en la versión final.
