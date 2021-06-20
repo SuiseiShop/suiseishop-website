@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Aplicaciones multiplataforma para tiendas online
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      En SuiseiShop te ofrecemos la posibilidad de contar con una apliación
+      multiplataforma para tu comercio online, disfrutando de un rendimiento
+      nativo sin importar el dispositivo y de la posibilidad de personalizarla a
+      tu gusto.
     actions:
       - label: Más información
         url: /features
