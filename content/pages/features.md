@@ -7,21 +7,21 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Haz que tu tienda llegue a todas partes
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Desarrollamos nuestras apliaciones utilizando Flutter, un framework que
+      nos permite desarrollar las mejores apliaciones para tu negocio.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
+      *   Interfaz agradable y fácil de usar
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      *   Rendimiento nativo sin importar la plataforma
+
+
+      *   Muchas plantillas entre las que elegir
+
+
+      *   Posibilidad de personalizarla a tu gusto
     actions:
       - label: Free Trial
         url: /signup
