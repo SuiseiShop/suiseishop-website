@@ -28,7 +28,8 @@ sections:
         url: /coming-soon
         style: primary
       - label: Probar demo
-        url: 'https://github.com/SuiseiShop/demo-game-shop'
+        url: >-
+          https://github.com/SuiseiShop/demo-game-shop/releases/download/v0.1/app.apk
         style: secondary
 seo:
   title: Features
