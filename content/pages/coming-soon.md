@@ -1,8 +1,6 @@
 ---
 title: Próximamente
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Estamos trabajando en ofrecer la mejor experiencia a nuestros clientes.
 image_alt: Office desk top view
 seo:
   title: Sign Up
