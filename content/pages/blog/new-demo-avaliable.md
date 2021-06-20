@@ -39,4 +39,4 @@ image: /images/2.jpg
 ---
 Ya está aquí la primera demostración técnica de nuestra plantilla, la cual ya cuenta con algunas de las características que mostraremos en la versión final.
 
-La demo ya se puede descargar desde GitHub.
+La demo se puede descargar desde GitHub.
