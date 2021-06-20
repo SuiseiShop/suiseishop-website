@@ -19,7 +19,7 @@ sections:
     background: gray
     title: Publicaciones recientes
 seo:
-  title: Stackbit Azimuth Theme
+  title: SuiseiShop
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
