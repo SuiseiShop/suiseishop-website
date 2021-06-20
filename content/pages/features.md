@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: /images/blog.png
+    image: /images/pink-cabbage.png
     image_alt: App preview on a phone and tablet
     title: Haz que tu tienda esté en todas partes
     content: >+
