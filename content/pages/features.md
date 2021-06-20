@@ -25,7 +25,7 @@ sections:
       *   Posibilidad de personalizar la apliación a tu gusto
 
     actions:
-      - label: Free Trial
+      - label: Registrarse
         url: /signup
         style: primary
       - label: View Demo
