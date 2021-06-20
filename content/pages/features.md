@@ -7,12 +7,6 @@ sections:
     background: gray
     features: []
     type: section_features
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
 seo:
   title: Features
   description: This is the features page
