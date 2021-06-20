@@ -20,7 +20,7 @@ sections:
     title: Publicaciones recientes
 seo:
   title: SuiseiShop
-  description: The preview of the Azimuth theme
+  description: Ap
   extra:
     - name: 'og:type'
       value: website
