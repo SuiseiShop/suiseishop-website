@@ -1,9 +1,6 @@
 ---
 title: ¡Primera demo de nuestra plantilla ya disponible!
 date: '2021-06-18'
-excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
 image_alt: People in a conference room
 thumb_image_alt: People in a conference room
 seo:
