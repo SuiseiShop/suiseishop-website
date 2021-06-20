@@ -43,13 +43,13 @@
                 "title": "Empresa",
                 "nav_links": [
                     {
-                        "label": "Acerca de",
-                        "url": "/coming-soon",
+                        "label": "Blog",
+                        "url": "/blog",
                         "style": "link"
                     },
                     {
-                        "label": "Blog",
-                        "url": "/blog",
+                        "label": "Acerca de",
+                        "url": "/coming-soon",
                         "style": "link"
                     },
                     {
